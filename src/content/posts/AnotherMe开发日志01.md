@@ -6,11 +6,11 @@ image: ./images/AnotherMeC1.png
 tags:
   - AnotherMe
   - Godot
-category: '"Godot",AnotherMe"'
+category: Godot,AnotherMe
 draft: false
 lang: ""
 ---
-klqn.top在两天前正式**复活**了，虽然上学很少有时间更新博客，但我还是尽量做到**一周五更**吧，至少写**AnotherMe**的时候更一次。
+klqn.top在两天前正式**复活**了，虽然上学很少有时间更新博客，但我还是尽量做到**一周三更**吧，至少写**AnotherMe**的时候更一次。
 这个项目我在B站都没发，所以几乎没有人知道。关于这个独立游戏的世界观设定啥的我之后会搞一个Wiki出来（虽然我可能懒得搞（））
 ## 战斗系统的更改
 首先今天在战斗系统里加了一个偷懒键，以后开发的时候就可以跳过战斗了（每次打一遍很拖时间）
